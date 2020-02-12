@@ -1,2 +1,4 @@
 # introgithub
-Introduction to Github ￼ qwiklab
+Introduction to Github qwiklab
+
+I am editing the README file. Adding some more details about the project description.
